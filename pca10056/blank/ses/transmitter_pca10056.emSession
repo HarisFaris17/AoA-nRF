@@ -1,0 +1,96 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="transmitter_pca10056_Debug" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="transmitter_pca10056_Debug" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="transmitter_pca10056_Debug" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="transmitter_pca10056_Debug" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="transmitter_pca10056"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;Application"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;Board Definition"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;Board Support"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;None"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;nRF_Drivers"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;nRF_Libraries"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;nRF_Log"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="transmitter_pca10056;transmitter_pca10056;Segger Startup Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="transmitter_pca10056_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="transmitter_pca10056_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="transmitter_pca10056_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="transmitter_pca10056_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="89" useTextEdit="1" path="../../../main.c" left="0" top="67" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="99" useTextEdit="1" path="../../../../../../../components/libraries/uart/retarget.c" left="0" top="89" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="82" y="1067" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../modules/nrfx/mdk/nrf52840.h" left="0" top="1053" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="66" y="40" useTextEdit="1" path="../../../../../../../components/boards/boards.c" left="0" top="66" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="662" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/components/libraries/timer/app_timer2.c" path="../config/sdk_config.h" left="0" top="632" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="66" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../components/boards/boards.h" left="0" top="353" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/components/boards/boards.h" path="../../../../../../../components/boards/pca10056.h" left="0" top="145" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="226" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840.h" path="../../../../../../../components/toolchain/cmsis/include/core_cm4.h" left="0" top="212" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="16" y="212" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../components/libraries/bsp/bsp.c" left="0" top="235" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/components/libraries/bsp/bsp.c" path="../../../../../../../components/libraries/bsp/bsp.h" left="0" top="243" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="134" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/components/drivers_nrf/radio_config/radio_config.h" path="../../../../../../../components/drivers_nrf/radio_config/radio_config.c" left="0" top="157" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="790" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../modules/nrfx/mdk/nrf52840_bitfields.h" left="0" selected="1" top="764" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="32" y="74" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../components/libraries/timer/app_timer2.c" left="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="88" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/components/libraries/timer/app_timer2.c" path="../../../../../../../components/libraries/timer/drv_rtc.h" left="0" top="74" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="10" y="40" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h" left="0" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="50" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../components/drivers_nrf/radio_config/radio_config.h" left="0" top="34" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../modules/nrfx/hal/nrf_gpio.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="../../../../../../../components/libraries/util/nordic_common.h" left="0" top="132" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="20" y="41" useTextEdit="1" path="../../../../../../../modules/nrfx/mdk/system_nrf52840.c" left="0" top="16" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="71" useTextEdit="1" path="../../../../../../../modules/nrfx/mdk/ses_startup_nrf52840.s" left="0" top="76" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../../../modules/nrfx/mdk/ses_startup_nrf_common.s" left="0" top="75" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="43" y="761" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 7.10/include/__SEGGER_RTL_Arm_Conf.h" left="0" top="748" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="35" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 7.10/include/stdint.h" left="0" top="70" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="28" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/My Project/radio/transmitter/main.c" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 7.10/include/stdbool.h" left="0" top="23" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="29" y="62" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/system_nrf52840.c" path="../../../../../../../modules/nrfx/mdk/system_nrf52.c" left="0" top="294" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="28" y="163" useTextEdit="1" openedFrom="C:/Users/haris/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/system_nrf52.c" path="../../../../../../../modules/nrfx/mdk/nrf.h" left="0" top="150" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="37" y="8" useTextEdit="1" path="Output/Debug/Obj/transmitter_pca10056/main_PP.c" left="0" top="99" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="transmitter_pca10056" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
