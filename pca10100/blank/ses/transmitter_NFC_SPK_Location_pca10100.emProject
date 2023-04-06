@@ -1,5 +1,8 @@
 <!DOCTYPE CrossStudio_Project_File>
-<solution Name="transmitter_pca10100" target="8" version="2">
+<solution
+  Name="transmitter_NFC_SPK_Location_pca10100"
+  target="8"
+  version="2">
   <configuration
     Name="Debug"
     c_preprocessor_definitions="DEBUG; DEBUG_NRF"
@@ -9,7 +12,7 @@
     c_preprocessor_definitions="NDEBUG"
     gcc_optimization_level="Optimize For Size"
     link_time_optimization="No" />
-  <project Name="transmitter_pca10100">
+  <project Name="transmitter_NFC_SPK_Location_pca10100">
     <configuration
       LIBRARY_IO_TYPE="RTT"
       Name="Common"
@@ -26,7 +29,7 @@
       arm_target_device_name="nRF52833_xxAA"
       arm_target_interface_type="SWD"
       c_preprocessor_definitions="APP_TIMER_V2;APP_TIMER_V2_RTC1_ENABLED;BOARD_PCA10100;BSP_UART_SUPPORT;CONFIG_GPIO_AS_PINRESET;FLOAT_ABI_HARD;INITIALIZE_USER_SECTIONS;NO_VTOR_CONFIG;NRF52833_XXAA"
-      c_user_include_directories="../../../config;../../../../../../../components;../../../../../../../components/boards;../../../../../../../components/drivers_nrf/nrf_soc_nosd;../../../../../../../components/drivers_nrf/radio_config;../../../../../../../components/libraries/atomic;../../../../../../../components/libraries/atomic_fifo;../../../../../../../components/libraries/balloc;../../../../../../../components/libraries/bsp;../../../../../../../components/libraries/button;../../../../../../../components/libraries/delay;../../../../../../../components/libraries/experimental_section_vars;../../../../../../../components/libraries/fifo;../../../../../../../components/libraries/log;../../../../../../../components/libraries/log/src;../../../../../../../components/libraries/memobj;../../../../../../../components/libraries/ringbuf;../../../../../../../components/libraries/scheduler;../../../../../../../components/libraries/sortlist;../../../../../../../components/libraries/strerror;../../../../../../../components/libraries/timer;../../../../../../../components/libraries/uart;../../../../../../../components/libraries/util;../../../../../../../components/toolchain/cmsis/include;../../..;../../../../../../../external/fprintf;../../../../../../../external/segger_rtt;../../../../../../../integration/nrfx;../../../../../../../integration/nrfx/legacy;../../../../../../../modules/nrfx;../../../../../../../modules/nrfx/drivers/include;../../../../../../../modules/nrfx/hal;../../../../../../../modules/nrfx/mdk;../config"
+      c_user_include_directories="../../../config;../../../../../../../components;../../../../../../../components/boards;../../../../../../../components/drivers_nrf/nrf_soc_nosd;../../../../../../../components/drivers_nrf/radio_config;../../../../../../../components/libraries/atomic;../../../../../../../components/libraries/atomic_fifo;../../../../../../../components/libraries/balloc;../../../../../../../components/libraries/bsp;../../../../../../../components/libraries/button;../../../../../../../components/libraries/delay;../../../../../../../components/libraries/eeprom;../../../../../../../components/libraries/experimental_section_vars;../../../../../../../components/libraries/fifo;../../../../../../../components/libraries/log;../../../../../../../components/libraries/log/src;../../../../../../../components/libraries/memobj;../../../../../../../components/libraries/ringbuf;../../../../../../../components/libraries/scheduler;../../../../../../../components/libraries/sortlist;../../../../../../../components/libraries/strerror;../../../../../../../components/libraries/timer;../../../../../../../components/libraries/uart;../../../../../../../components/libraries/util;../../../../../../../components/toolchain/cmsis/include;../../../../../../../components/nfc/t2t_parser;../../../../../../../components/nfc/t4t_parser/apdu;../../../../../../../components/nfc/t4t_parser/cc_file;../../../../../../../components/nfc/t4t_parser/hl_detection_procedure;../../../../../../../components/nfc/t4t_parser/tlv;../../../../../../../components/nfc/ndef/generic/message;../../../../../../../components/nfc/ndef/generic/record;../../../../../../../components/nfc/ndef/parser/message;../../../../../../../components/nfc/ndef/parser/record;../../..;../../../../../../../external/fprintf;../../../../../../../external/segger_rtt;../../../../../../../external/oled;../../../../../../../external/nfc_adafruit_library;../../../../../../../integration/nrfx;../../../../../../../integration/nrfx/legacy;../../../../../../../modules/nrfx;../../../../../../../modules/nrfx/drivers/include;../../../../../../../modules/nrfx/hal;../../../../../../../modules/nrfx/mdk;../config;../../../nfc_spk_eeprom3;../../../nfc_spk_oled;../../../nfc_spk_pn532"
       debug_register_definition_file="../../../../../../../modules/nrfx/mdk/nrf52.svd"
       debug_start_from_entry_point_symbol="No"
       debug_target_connection="J-Link"
@@ -44,6 +47,9 @@
       project_type="Executable" />
     <folder Name="Application">
       <file file_name="../../../main.c" />
+      <file file_name="../../../nfc_spk_eeprom3/nfc_spk_eeprom3.c" />
+      <file file_name="../../../nfc_spk_pn532/nfc_spk_pn532.c" />
+      <file file_name="../../../nfc_spk_oled/nfc_spk_ssd1306.c" />
       <file file_name="../config/sdk_config.h" />
     </folder>
     <folder Name="Board Definition">
@@ -54,6 +60,7 @@
     </folder>
     <folder Name="None">
       <file file_name="../../../../../../../modules/nrfx/mdk/ses_startup_nrf52.s">
+        <configuration Name="Debug" build_exclude_from_build="Yes" />
         <configuration Name="Release" build_exclude_from_build="Yes" />
       </file>
       <file file_name="../../../../../../../modules/nrfx/mdk/ses_startup_nrf52833.s" />
@@ -63,13 +70,24 @@
     <folder Name="Segger Startup Files">
       <file file_name="$(StudioDir)/source/thumb_crt0.s" />
     </folder>
+    <folder Name="Third Parties">
+      <file file_name="../../../../../../../external/nfc_adafruit_library/adafruit_pn532.c" />
+      <file file_name="../../../../../../../components/libraries/eeprom/eeprom.c" />
+      <file file_name="../../../../../../../external/oled/ssd1306_oled.c" />
+    </folder>
     <folder Name="nRF_Drivers">
+      <file file_name="../../../../../../../integration/nrfx/legacy/nrf_drv_clock.c" />
+      <file file_name="../../../../../../../integration/nrfx/legacy/nrf_drv_twi.c" />
       <file file_name="../../../../../../../integration/nrfx/legacy/nrf_drv_uart.c" />
       <file file_name="../../../../../../../modules/nrfx/soc/nrfx_atomic.c" />
+      <file file_name="../../../../../../../modules/nrfx/drivers/src/nrfx_clock.c" />
       <file file_name="../../../../../../../modules/nrfx/drivers/src/nrfx_gpiote.c" />
       <file file_name="../../../../../../../modules/nrfx/drivers/src/prs/nrfx_prs.c" />
+      <file file_name="../../../../../../../modules/nrfx/drivers/src/nrfx_twi.c" />
+      <file file_name="../../../../../../../modules/nrfx/drivers/src/nrfx_twim.c" />
       <file file_name="../../../../../../../modules/nrfx/drivers/src/nrfx_uart.c" />
       <file file_name="../../../../../../../modules/nrfx/drivers/src/nrfx_uarte.c" />
+      <file file_name="../../../../../../../modules/nrfx/drivers/src/nrfx_wdt.c" />
       <file file_name="../../../../../../../components/drivers_nrf/radio_config/radio_config.c" />
     </folder>
     <folder Name="nRF_Libraries">
@@ -105,6 +123,18 @@
     <folder Name="nRF_Segger_RTT">
       <file file_name="../../../../../../../external/segger_rtt/SEGGER_RTT.c" />
       <file file_name="../../../../../../../external/segger_rtt/SEGGER_RTT_printf.c" />
+    </folder>
+    <folder Name="nrf NFC">
+      <file file_name="../../../../../../../components/nfc/ndef/generic/message/nfc_ndef_msg.c" />
+      <file file_name="../../../../../../../components/nfc/ndef/parser/message/nfc_ndef_msg_parser.c" />
+      <file file_name="../../../../../../../components/nfc/ndef/parser/message/nfc_ndef_msg_parser_local.c" />
+      <file file_name="../../../../../../../components/nfc/ndef/generic/record/nfc_ndef_record.c" />
+      <file file_name="../../../../../../../components/nfc/ndef/parser/record/nfc_ndef_record_parser.c" />
+      <file file_name="../../../../../../../components/nfc/t2t_parser/nfc_t2t_parser.c" />
+      <file file_name="../../../../../../../components/nfc/t4t_parser/apdu/nfc_t4t_apdu.c" />
+      <file file_name="../../../../../../../components/nfc/t4t_parser/cc_file/nfc_t4t_cc_file.c" />
+      <file file_name="../../../../../../../components/nfc/t4t_parser/hl_detection_procedure/nfc_t4t_hl_detection_procedures.c" />
+      <file file_name="../../../../../../../components/nfc/t4t_parser/tlv/nfc_t4t_tlv_block.c" />
     </folder>
   </project>
 </solution>

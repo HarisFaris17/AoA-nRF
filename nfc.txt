@@ -1,0 +1,35 @@
+ret_code_t tag_detect_and_read()
+{
+    ret_code_t     err_code;
+    //nfc_a_tag_info t_tag;
+
+    // Detect a NFC-A Tag in the field and initiate a communication. This function activates
+    // the NFC RF field. If a Tag is present, basic information about detected Tag is returned
+    // in tag info structure.
+    err_code = adafruit_pn532_nfc_a_target_init(&m_nfc_tag, TAG_DETECT_TIMEOUT);
+  
+    if (err_code != NRF_SUCCESS)
+    {
+        printf("Error NRF_ERROR_NOT_FOUND\n");
+        return NRF_ERROR_NOT_FOUND;
+    }
+    adafruit_pn532_tag_info_printout(&m_nfc_tag);
+    
+
+    nfc_tag_type_t tag_type = tag_type_identify(m_nfc_tag.sel_res);
+    switch (tag_type)
+    {
+        case NFC_T2T:
+            NRF_LOG_INFO("Type 2 Tag Platform detected. ");
+            return t2t_data_read_and_analyze(&m_nfc_tag);
+
+        case NFC_T4T:
+            NRF_LOG_INFO("Type 4 Tag Platform detected. ");
+            return t4t_data_read_and_analyze(&m_nfc_tag);
+
+        default:
+            printf("Tag is not type 2 nor type 4, but it is sufficient to be processed\n");
+            return NRF_SUCCESS;
+            //return NRF_SUCCESS;
+    }
+}

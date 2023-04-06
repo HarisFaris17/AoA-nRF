@@ -1,0 +1,2325 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2023.02.26 18:12:19 =~=~=~=~=~=~=~=~=~=~=~=
+info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       ÿ<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Init
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       €<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       ø<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |      €<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       ÿ<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        ÿ<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       ÿ<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       ÿ<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        ÿ<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |       à<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        õ<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<info> app: Request detect the tag
+<info> app: Request detect the tag
+<info> app: Trying to read passive target ID
+<info> app: send request detect tag
+<info> app: Apply delay after command sent
+<info> app: Trying to delay
+<info> app: PN532 Initialized
+<info> app: IRQ event handler called
+<info> app: Trying to stop delay
+<info> app: Checking polarity
+<info> app: TOGGGGLLLLLLLLLLLLLLLLLEEEEEEEEEEEE
+<info> app: NFC Activated : 
+<info> app:                         |        
+<info> app: Write to EEPROM with starting address 0xAC0 and wata size 8
+<info> app: The data that will be written onto EEPROM : 
+<info> app:  00 00 02 19 20 01 01 02|.... ...
+<info> app: The frame that will be transmitted to EEPROM : 
+<info> app:  0A C0 00 00 02 19 20 01|...... .
+<info> app:  01 02                  |..      
+<info> app: Failed to save newly active NFC ID
+<error> app: Fatal error
+<warning> app: System reset
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+<info> app: Initializing C:\Users\haris\Downloads\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\examples\My Project\radio\transmitter_NFC_SPK_Location\nfc_spk_pn532\nfc_spk_pn532.c module
+<error> app: PN532 Failed to be initialized!
+<error> app: Fatal error
+<warning> app: System reset

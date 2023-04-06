@@ -46,6 +46,634 @@
 #ifdef USE_APP_CONFIG
 #include "app_config.h"
 #endif
+
+// ------user defined library------
+
+// <o> MAX_NDEF_RECORDS - Maximal number of NDEF records that can be stored in NDEF message descriptor. 
+#ifndef MAX_NDEF_RECORDS
+#define MAX_NDEF_RECORDS 10
+#endif
+
+// <o> MAX_TLV_BLOCKS - Maximal number of TLV blocks that can be stored in Type 2/4 Tag descriptor. 
+#ifndef MAX_TLV_BLOCKS
+#define MAX_TLV_BLOCKS 10
+#endif
+
+// <o> TAG_AFTER_READ_DELAY - Delay (in ms) after Tag read. 
+#ifndef TAG_AFTER_READ_DELAY
+#define TAG_AFTER_READ_DELAY 2000
+#endif
+
+// <o> TAG_DETECT_TIMEOUT - Timeout (in ms) for function which searches for a Tag. 
+#ifndef TAG_DETECT_TIMEOUT
+#define TAG_DETECT_TIMEOUT 5000
+#endif
+
+// <o> TAG_TYPE_2_DATA_BUFFER_SIZE - Buffer size for data from a Type 2 Tag Platform. 
+#ifndef TAG_TYPE_2_DATA_BUFFER_SIZE
+#define TAG_TYPE_2_DATA_BUFFER_SIZE 1024
+#endif
+
+#ifndef ADAFRUIT_PN532_ENABLED
+#define ADAFRUIT_PN532_ENABLED 1
+#endif
+// <o> PN532_IRQ  
+#ifndef PN532_IRQ
+#define PN532_IRQ IRQ_I2C_PIN
+#endif
+
+// <o> PN532_RESET  
+#ifndef PN532_RESET
+#define PN532_RESET RESET_I2C_PIN
+#endif
+//.21) 
+// <22=> 22 (P0.22) 
+// <23=> 23 (P0.23) 
+// <24=> 24 (P0.24) 
+// <25=> 25 (P0.25) 
+// <26=> 26 (P0.26) 
+// <27=> 27 (P0.27) 
+// <28=> 28 (P0.28) 
+// <29=> 29 (P0.29) 
+// <30=> 30 (P0.30) 
+// <31=> 31 (P0.31) 
+// <4294967295=> Not connected 
+
+#ifndef PN532_CONFIG_SCL
+#define PN532_CONFIG_SCL 22
+#endif
+
+// <o> PN532_CONFIG_SDA  - Pin number
+ 
+// <0=> 0 (P0.0) 
+// <1=> 1 (P0.1) 
+// <2=> 2 (P0.2) 
+// <3=> 3 (P0.3) 
+// <4=> 4 (P0.4) 
+// <5=> 5 (P0.5) 
+// <6=> 6 (P0.6) 
+// <7=> 7 (P0.7) 
+// <8=> 8 (P0.8) 
+// <9=> 9 (P0.9) 
+// <10=> 10 (P0.10) 
+// <11=> 11 (P0.11) 
+// <12=> 12 (P0.12) 
+// <13=> 13 (P0.13) 
+// <14=> 14 (P0.14) 
+// <15=> 15 (P0.15) 
+// <16=> 16 (P0.16) 
+// <17=> 17 (P0.17) 
+// <18=> 18 (P0.18) 
+// <19=> 19 (P0.19) 
+// <20=> 20 (P0.20) 
+// <21=> 21 (P0.21) 
+// <22=> 22 (P0.22) 
+// <23=> 23 (P0.23) 
+// <24=> 24 (P0.24) 
+// <25=> 25 (P0.25) 
+// <26=> 26 (P0.26) 
+// <27=> 27 (P0.27) 
+// <28=> 28 (P0.28) 
+// <29=> 29 (P0.29) 
+// <30=> 30 (P0.30) 
+// <31=> 31 (P0.31) 
+// <4294967295=> Not connected 
+
+#ifndef PN532_CONFIG_SDA
+#define PN532_CONFIG_SDA 24
+#endif
+
+// <o> PN532_CONFIG_TWI_INSTANCE  - TWI instance to be used
+ 
+// <0=> 0 
+// <1=> 1 
+// <2=> 2 
+
+#ifndef PN532_CONFIG_TWI_INSTANCE
+#define PN532_CONFIG_TWI_INSTANCE 0
+#endif
+
+// <e> ADAFRUIT_PN532_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef ADAFRUIT_PN532_LOG_ENABLED
+#define ADAFRUIT_PN532_LOG_ENABLED 0
+#endif
+// <o> ADAFRUIT_PN532_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef ADAFRUIT_PN532_LOG_LEVEL
+#define ADAFRUIT_PN532_LOG_LEVEL 3
+#endif
+
+#ifndef ADAFRUIT_PN532_INFO_COLOR
+#define ADAFRUIT_PN532_INFO_COLOR 0
+#endif
+
+
+#ifndef TWI_INSTANCE
+#define TWI_INSTANCE 0
+#endif
+
+#ifndef  SCL_I2C_PIN
+#define SCL_I2C_PIN 22
+#endif
+
+#ifndef  SDA_I2C_PIN
+#define SDA_I2C_PIN 24
+#endif
+
+#ifndef  IRQ_I2C_PIN
+#define IRQ_I2C_PIN 13
+#endif
+
+#ifndef  RESET_I2C_PIN
+#define RESET_I2C_PIN 12
+#endif
+
+#ifndef OLED_ADDRESS
+#define OLED_ADDRESS 0x3c
+#endif
+
+#ifndef NRFX_TWI_ENABLED
+#define NRFX_TWI_ENABLED 1
+#endif
+
+#ifndef NRFX_TWI0_ENABLED
+#define NRFX_TWI0_ENABLED 1
+#endif
+
+// <q> NRFX_TWI1_ENABLED  - Enable TWI1 instance
+ 
+
+#ifndef NRFX_TWI1_ENABLED
+#define NRFX_TWI1_ENABLED 0
+#endif
+
+#ifndef NRFX_TWI_DEFAULT_CONFIG_FREQUENCY
+#define NRFX_TWI_DEFAULT_CONFIG_FREQUENCY 26738688
+#endif
+
+#ifndef NRFX_TWI_DEFAULT_CONFIG_FREQUENCY
+#define NRFX_TWI_DEFAULT_CONFIG_FREQUENCY 26738688
+#endif
+
+#ifndef TWI_DEFAULT_CONFIG_FREQUENCY
+#define TWI_DEFAULT_CONFIG_FREQUENCY NRF_DRV_TWI_FREQ_400K//104857600
+#endif
+
+#ifndef TWI_DEFAULT_CONFIG_CLR_BUS_INIT
+#define TWI_DEFAULT_CONFIG_CLR_BUS_INIT 1
+#endif
+
+// <q> TWI_DEFAULT_CONFIG_HOLD_BUS_UNINIT  - Enables bus holding after uninit
+ 
+
+#ifndef TWI_DEFAULT_CONFIG_HOLD_BUS_UNINIT
+#define TWI_DEFAULT_CONFIG_HOLD_BUS_UNINIT 1
+#endif
+
+// <o> TWI_DEFAULT_CONFIG_IRQ_PRIORITY  - Interrupt priority
+ 
+
+// <i> Priorities 0,2 (nRF51) and 0,1,4,5 (nRF52) are reserved for SoftDevice
+// <0=> 0 (highest) 
+// <1=> 1 
+// <2=> 2 
+// <3=> 3 
+// <4=> 4 
+// <5=> 5 
+// <6=> 6 
+// <7=> 7 
+
+#ifndef TWI_DEFAULT_CONFIG_IRQ_PRIORITY
+#define TWI_DEFAULT_CONFIG_IRQ_PRIORITY 6
+#endif
+
+// <e> TWI0_ENABLED - Enable TWI0 instance
+//==========================================================
+#ifndef TWI0_ENABLED
+#define TWI0_ENABLED 1
+#endif
+// <q> TWI0_USE_EASY_DMA  - Use EasyDMA (if present)
+ 
+
+#ifndef TWI0_USE_EASY_DMA
+#define TWI0_USE_EASY_DMA 0
+#endif
+
+// </e>
+
+// <e> TWI1_ENABLED - Enable TWI1 instance
+//==========================================================
+#ifndef TWI1_ENABLED
+#define TWI1_ENABLED 0
+#endif
+// <q> TWI1_USE_EASY_DMA  - Use EasyDMA (if present)
+ 
+
+#ifndef TWI1_USE_EASY_DMA
+#define TWI1_USE_EASY_DMA 0
+#endif
+
+// <q> NRFX_TWI_DEFAULT_CONFIG_HOLD_BUS_UNINIT  - Enables bus holding after uninit
+ 
+
+#ifndef NRFX_TWI_DEFAULT_CONFIG_HOLD_BUS_UNINIT
+#define NRFX_TWI_DEFAULT_CONFIG_HOLD_BUS_UNINIT 0
+#endif
+
+// <o> NRFX_TWI_DEFAULT_CONFIG_IRQ_PRIORITY  - Interrupt priority
+ 
+// <0=> 0 (highest) 
+// <1=> 1 
+// <2=> 2 
+// <3=> 3 
+// <4=> 4 
+// <5=> 5 
+// <6=> 6 
+// <7=> 7 
+
+#ifndef NRFX_TWI_DEFAULT_CONFIG_IRQ_PRIORITY
+#define NRFX_TWI_DEFAULT_CONFIG_IRQ_PRIORITY 6
+#endif
+
+// <e> NRFX_TWI_CONFIG_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NRFX_TWI_CONFIG_LOG_ENABLED
+#define NRFX_TWI_CONFIG_LOG_ENABLED 0
+#endif
+// <o> NRFX_TWI_CONFIG_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NRFX_TWI_CONFIG_LOG_LEVEL
+#define NRFX_TWI_CONFIG_LOG_LEVEL 3
+#endif
+
+// <o> NRFX_TWI_CONFIG_INFO_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NRFX_TWI_CONFIG_INFO_COLOR
+#define NRFX_TWI_CONFIG_INFO_COLOR 0
+#endif
+
+// <o> NRFX_TWI_CONFIG_DEBUG_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NRFX_TWI_CONFIG_DEBUG_COLOR
+#define NRFX_TWI_CONFIG_DEBUG_COLOR 0
+#endif
+
+#ifndef NFC_NDEF_MSG_ENABLED
+#define NFC_NDEF_MSG_ENABLED 1
+#endif
+// <o> NFC_NDEF_MSG_TAG_TYPE  - NFC Tag Type
+ 
+// <2=> Type 2 Tag 
+// <4=> Type 4 Tag 
+
+#ifndef NFC_NDEF_MSG_TAG_TYPE
+#define NFC_NDEF_MSG_TAG_TYPE 2
+#endif
+
+// </e>
+
+// <e> NFC_NDEF_MSG_PARSER_ENABLED - nfc_ndef_msg_parser - NFC NDEF message parser module
+//==========================================================
+#ifndef NFC_NDEF_MSG_PARSER_ENABLED
+#define NFC_NDEF_MSG_PARSER_ENABLED 1
+#endif
+// <e> NFC_NDEF_MSG_PARSER_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NFC_NDEF_MSG_PARSER_LOG_ENABLED
+#define NFC_NDEF_MSG_PARSER_LOG_ENABLED 1
+#endif
+// <o> NFC_NDEF_MSG_PARSER_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NFC_NDEF_MSG_PARSER_LOG_LEVEL
+#define NFC_NDEF_MSG_PARSER_LOG_LEVEL 3
+#endif
+
+// <o> NFC_NDEF_MSG_PARSER_INFO_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NFC_NDEF_MSG_PARSER_INFO_COLOR
+#define NFC_NDEF_MSG_PARSER_INFO_COLOR 0
+#endif
+
+// </e>
+
+// </e>
+
+// <q> NFC_NDEF_RECORD_ENABLED  - nfc_ndef_record - NFC NDEF Record generator module
+ 
+
+#ifndef NFC_NDEF_RECORD_ENABLED
+#define NFC_NDEF_RECORD_ENABLED 1
+#endif
+
+// <e> NFC_NDEF_RECORD_PARSER_ENABLED - nfc_ndef_record_parser - NFC NDEF Record parser module
+//==========================================================
+#ifndef NFC_NDEF_RECORD_PARSER_ENABLED
+#define NFC_NDEF_RECORD_PARSER_ENABLED 1
+#endif
+// <e> NFC_NDEF_RECORD_PARSER_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NFC_NDEF_RECORD_PARSER_LOG_ENABLED
+#define NFC_NDEF_RECORD_PARSER_LOG_ENABLED 1
+#endif
+// <o> NFC_NDEF_RECORD_PARSER_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NFC_NDEF_RECORD_PARSER_LOG_LEVEL
+#define NFC_NDEF_RECORD_PARSER_LOG_LEVEL 3
+#endif
+
+// <o> NFC_NDEF_RECORD_PARSER_INFO_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NFC_NDEF_RECORD_PARSER_INFO_COLOR
+#define NFC_NDEF_RECORD_PARSER_INFO_COLOR 0
+#endif
+
+// </e>
+
+// </e>
+
+// <e> NFC_T2T_PARSER_ENABLED - nfc_type_2_tag_parser - Parser for decoding Type 2 Tag data
+//==========================================================
+#ifndef NFC_T2T_PARSER_ENABLED
+#define NFC_T2T_PARSER_ENABLED 1
+#endif
+// <e> NFC_T2T_PARSER_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NFC_T2T_PARSER_LOG_ENABLED
+#define NFC_T2T_PARSER_LOG_ENABLED 1
+#endif
+// <o> NFC_T2T_PARSER_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NFC_T2T_PARSER_LOG_LEVEL
+#define NFC_T2T_PARSER_LOG_LEVEL 3
+#endif
+
+// <o> NFC_T2T_PARSER_INFO_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NFC_T2T_PARSER_INFO_COLOR
+#define NFC_T2T_PARSER_INFO_COLOR 0
+#endif
+
+// </e>
+
+// </e>
+
+// <e> NFC_T4T_APDU_ENABLED - nfc_t4t_apdu - APDU encoder/decoder for Type 4 Tag
+//==========================================================
+#ifndef NFC_T4T_APDU_ENABLED
+#define NFC_T4T_APDU_ENABLED 1
+#endif
+// <e> NFC_T4T_APDU_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NFC_T4T_APDU_LOG_ENABLED
+#define NFC_T4T_APDU_LOG_ENABLED 1
+#endif
+// <o> NFC_T4T_APDU_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NFC_T4T_APDU_LOG_LEVEL
+#define NFC_T4T_APDU_LOG_LEVEL 3
+#endif
+
+// <o> NFC_T4T_APDU_LOG_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NFC_T4T_APDU_LOG_COLOR
+#define NFC_T4T_APDU_LOG_COLOR 0
+#endif
+
+// </e>
+
+// </e>
+
+// <e> NFC_T4T_CC_FILE_PARSER_ENABLED - nfc_t4t_cc_file - Capability Container file for Type 4 Tag
+//==========================================================
+#ifndef NFC_T4T_CC_FILE_PARSER_ENABLED
+#define NFC_T4T_CC_FILE_PARSER_ENABLED 1
+#endif
+// <e> NFC_T4T_CC_FILE_PARSER_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NFC_T4T_CC_FILE_PARSER_LOG_ENABLED
+#define NFC_T4T_CC_FILE_PARSER_LOG_ENABLED 1
+#endif
+// <o> NFC_T4T_CC_FILE_PARSER_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NFC_T4T_CC_FILE_PARSER_LOG_LEVEL
+#define NFC_T4T_CC_FILE_PARSER_LOG_LEVEL 3
+#endif
+
+// <o> NFC_T4T_CC_FILE_PARSER_INFO_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NFC_T4T_CC_FILE_PARSER_INFO_COLOR
+#define NFC_T4T_CC_FILE_PARSER_INFO_COLOR 0
+#endif
+
+// </e>
+
+// </e>
+
+// <e> NFC_T4T_HL_DETECTION_PROCEDURES_ENABLED - nfc_t4t_hl_detection_procedures - NDEF Detection Procedure for Type 4 Tag
+//==========================================================
+#ifndef NFC_T4T_HL_DETECTION_PROCEDURES_ENABLED
+#define NFC_T4T_HL_DETECTION_PROCEDURES_ENABLED 1
+#endif
+// <e> NFC_T4T_HL_DETECTION_PROCEDURES_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NFC_T4T_HL_DETECTION_PROCEDURES_LOG_ENABLED
+#define NFC_T4T_HL_DETECTION_PROCEDURES_LOG_ENABLED 1
+#endif
+// <o> NFC_T4T_HL_DETECTION_PROCEDURES_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NFC_T4T_HL_DETECTION_PROCEDURES_LOG_LEVEL
+#define NFC_T4T_HL_DETECTION_PROCEDURES_LOG_LEVEL 3
+#endif
+
+// <o> NFC_T4T_HL_DETECTION_PROCEDURES_INFO_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NFC_T4T_HL_DETECTION_PROCEDURES_INFO_COLOR
+#define NFC_T4T_HL_DETECTION_PROCEDURES_INFO_COLOR 0
+#endif
+
+// </e>
+
+// <o> APDU_BUFF_SIZE - Size (in bytes) of the buffer for APDU storage 
+#ifndef APDU_BUFF_SIZE
+#define APDU_BUFF_SIZE 250
+#endif
+
+// <o> CC_STORAGE_BUFF_SIZE - Size (in bytes) of the buffer for CC file storage 
+#ifndef CC_STORAGE_BUFF_SIZE
+#define CC_STORAGE_BUFF_SIZE 64
+#endif
+
+// </e>
+
+// <e> NFC_T4T_TLV_BLOCK_PARSER_ENABLED - nfc_t4t_tlv_block - TLV block for Type 4 Tag
+//==========================================================
+#ifndef NFC_T4T_TLV_BLOCK_PARSER_ENABLED
+#define NFC_T4T_TLV_BLOCK_PARSER_ENABLED 1
+#endif
+// <e> NFC_T4T_TLV_BLOCK_PARSER_LOG_ENABLED - Enables logging in the module.
+//==========================================================
+#ifndef NFC_T4T_TLV_BLOCK_PARSER_LOG_ENABLED
+#define NFC_T4T_TLV_BLOCK_PARSER_LOG_ENABLED 1
+#endif
+// <o> NFC_T4T_TLV_BLOCK_PARSER_LOG_LEVEL  - Default Severity level
+ 
+// <0=> Off 
+// <1=> Error 
+// <2=> Warning 
+// <3=> Info 
+// <4=> Debug 
+
+#ifndef NFC_T4T_TLV_BLOCK_PARSER_LOG_LEVEL
+#define NFC_T4T_TLV_BLOCK_PARSER_LOG_LEVEL 3
+#endif
+
+// <o> NFC_T4T_TLV_BLOCK_PARSER_INFO_COLOR  - ANSI escape code prefix.
+ 
+// <0=> Default 
+// <1=> Black 
+// <2=> Red 
+// <3=> Green 
+// <4=> Yellow 
+// <5=> Blue 
+// <6=> Magenta 
+// <7=> Cyan 
+// <8=> White 
+
+#ifndef NFC_T4T_TLV_BLOCK_PARSER_INFO_COLOR
+#define NFC_T4T_TLV_BLOCK_PARSER_INFO_COLOR 0
+#endif
+
+// ------user defined library------
+
 // <h> nRF_Drivers 
 
 //==========================================================
@@ -1027,7 +1655,7 @@
 // <i> Log data is buffered and can be processed in idle.
 
 #ifndef NRF_LOG_DEFERRED
-#define NRF_LOG_DEFERRED 0
+#define NRF_LOG_DEFERRED 1
 #endif
 
 // <q> NRF_LOG_FILTERS_ENABLED  - Enable dynamic filtering of logs.
@@ -1144,6 +1772,87 @@
 #endif
 
 // </e>
+
+#ifndef NRF_CLOCK_ENABLED
+#define NRF_CLOCK_ENABLED 1
+#endif
+// <o> CLOCK_CONFIG_LF_SRC  - LF Clock Source
+ 
+// <0=> RC 
+// <1=> XTAL 
+// <2=> Synth 
+// <131073=> External Low Swing 
+// <196609=> External Full Swing 
+
+#ifndef CLOCK_CONFIG_LF_SRC
+#define CLOCK_CONFIG_LF_SRC 1
+#endif
+
+// <q> CLOCK_CONFIG_LF_CAL_ENABLED  - Calibration enable for LF Clock Source
+ 
+
+#ifndef CLOCK_CONFIG_LF_CAL_ENABLED
+#define CLOCK_CONFIG_LF_CAL_ENABLED 0
+#endif
+
+// <o> CLOCK_CONFIG_IRQ_PRIORITY  - Interrupt priority
+ 
+
+// <i> Priorities 0,2 (nRF51) and 0,1,4,5 (nRF52) are reserved for SoftDevice
+// <0=> 0 (highest) 
+// <1=> 1 
+// <2=> 2 
+// <3=> 3 
+// <4=> 4 
+// <5=> 5 
+// <6=> 6 
+// <7=> 7 
+
+#ifndef CLOCK_CONFIG_IRQ_PRIORITY
+#define CLOCK_CONFIG_IRQ_PRIORITY 6
+#endif
+
+// </e>
+
+// <e> WDT_ENABLED - nrf_drv_wdt - WDT peripheral driver - legacy layer
+//==========================================================
+#ifndef WDT_ENABLED
+#define WDT_ENABLED 1
+#endif
+// <o> WDT_CONFIG_BEHAVIOUR  - WDT behavior in CPU SLEEP or HALT mode
+ 
+// <1=> Run in SLEEP, Pause in HALT 
+// <8=> Pause in SLEEP, Run in HALT 
+// <9=> Run in SLEEP and HALT 
+// <0=> Pause in SLEEP and HALT 
+
+#ifndef WDT_CONFIG_BEHAVIOUR
+#define WDT_CONFIG_BEHAVIOUR 1
+#endif
+
+// <o> WDT_CONFIG_RELOAD_VALUE - Reload value  <15-4294967295> 
+
+
+#ifndef WDT_CONFIG_RELOAD_VALUE
+#define WDT_CONFIG_RELOAD_VALUE 2000
+#endif
+
+// <o> WDT_CONFIG_IRQ_PRIORITY  - Interrupt priority
+ 
+
+// <i> Priorities 0,2 (nRF51) and 0,1,4,5 (nRF52) are reserved for SoftDevice
+// <0=> 0 (highest) 
+// <1=> 1 
+// <2=> 2 
+// <3=> 3 
+// <4=> 4 
+// <5=> 5 
+// <6=> 6 
+// <7=> 7 
+
+#ifndef WDT_CONFIG_IRQ_PRIORITY
+#define WDT_CONFIG_IRQ_PRIORITY 6
+#endif
 
 // <h> nrf_log module configuration 
 

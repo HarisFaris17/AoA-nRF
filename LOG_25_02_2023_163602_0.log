@@ -1,0 +1,3620 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2023.02.25 16:36:02 =~=~=~=~=~=~=~=~=~=~=~=
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 26
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button event handler called with pin : 20
+<info> app: Current m_state 0
+<info> app: There is no Tag registered now
+<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|. <info> app: Button count 3
+€<i <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+ <info> app:€<info> app: Button count 3
+<info> app: Butt <info> app: Button count 3
+<info> app: Button has been init <info> app: Button count 3
+<info> app: B <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <i <info> app: Button count 3
+<info> app: Button has been initialized
+<in <info> app: Bu <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: B <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+ <info> ap0 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<i <info> app: Butt <info> app: Button count 3  <info> app: B  <info> app: Button count 3
+<info> app: But <info> app: Button co <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Bu <info> app: Button count  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initi <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button coun4 <info> app: Button count 3
+<info> app: Button has been initialized
+<info < <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <in <info> app: Button count 3 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI <info> app: Button count 3
+<info> app: Button has b  <info> app: Button count 3
+<info> app: Button has been i <info> app: But <info> app: Button <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... .... <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+€<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> a <info> app: Button count 3
+<info> app: Button has been initialized
+<in <info> app: Button count 3
+< <info> <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info>  <info> app: Button count 3
+<info> app: Button has been initialized <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has be <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:   < <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <	 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 <info> app: Button count 3
+<info <info> app: Bu4 <info> app: Button count 3
+<info> app: Button has " <info> app: Bu <info> app: Button count 3
+<info> app: Button h <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example sta  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: i <info> app: Button  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+ <info> app: Button co5 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675 <info> app: Button count 3
+<info> app: But <info> app: Button count 3
+< <info> app <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+ <info> app: Button <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info <info> a <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:   <info> app: Button count 3
+<info> app: Button has been initia <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:   <info> app: Bu  <info> app: Button count 3
+<info> app: Button  <info> app: Button count   <info> app: Button count 3
+<info> app: Button h <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> ap <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: B <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Ra <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 2 <in <i <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized <info> app: Button count 3
+<info> app: Button has been initia <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> <info> app: Button count 3
+<info> app: Button has been in	 <info> app: Button count 3  <info> app: Button count 3
+<info> ! <in <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  0 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initiali <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> ap <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <inf   <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app <info> app: Button count 3
+<info> app: Button has been initi <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button cou <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Bu4 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button coun <info> <info> app: Butt/ <info>  <info> app: Button count 3
+<info> app: Button ha <info> app: Button count 3
+<info> a  <info> app: Button count 3
+<info> app: Button has been initia  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+< <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<in <info> app: Butto <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in N <info> app: Button count 3
+<i <info> app: Button count 3
+<info> app <info> app: Button count 3
+<info> app: Butto <info> app <info> app:À<inf ÿ<i <in  <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<	 <info> app: Butto <info> app
+ <info <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Bu <info> <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialize$ <info> app: Button count 3
+<in  <in <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has bee <info> app: <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+ <info> app: Button count 3
+<info> app: Button has been  <in <info> app: Button count 3
+<info> <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Bu <info> app: Button count 3 <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info>  <info> app: Button count 3
+<info> app: Button has been initialize <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been init <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ü<info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+<info> app_timer: RTC: initialized.
+<info> app: 0xD675B9F3 0xAC8A51F0 -1
+<info> app:  00 00 01 20 19 02 00 00|... ....
+<info> app:  01 02 00 00 03 02 00 00|........
+<info> app:  05 02 00 00 07 02 00 00|........
+<info> app:  09 02 00 00 00 00 00 00|	.......
+<info> app:  00 00 00 00 00 00 00   |....... 
+<info> app: Access address
+<info> app:  00 D6 BE 89            |....    
+<info> app:  8E 8E 8E 8E            |....    
+<info> app: Starting in NRF52833
+<info> app: Radio transmitter example started.
+<info> app: Press Any Button
+<info> app: Initialization...!
+<info> app: Uninit the TWI
+<info> app: Disable the TWI
+<info> app: Enable again TWI
+<info> app: I2C initialized
+<info> app: SSD1306 Initializing!
+<info> app: SSD1306 Initialized!
+ <info> app: Button count 3
+<info> app: Button has been initialized
+<info> app: Button has been enabled
+ <
